@@ -1,0 +1,1 @@
+Each face has a foreground and background image (the face and the pupils). I intend to add a few more frames of animation on the face for clicking and hovering to make things a little more dynamic.
