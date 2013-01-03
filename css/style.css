@@ -1,0 +1,35 @@
+#face1
+{ 
+	top: 200px; 
+	left: 500px; 
+}
+#face2
+{
+	left:700px;
+}
+#face3
+{
+	top:-200px;
+	left:900px;
+}
+
+.face
+{
+	width: 200px; 
+	height: 200px; 
+	position: relative;
+}
+
+.faceImage
+{
+	position: absolute; 
+	z-index: 2; 
+	width: 100%
+}
+
+.pupils
+{
+	position: absolute; 
+	z-index: -1; 
+	width: 100%; 
+}
